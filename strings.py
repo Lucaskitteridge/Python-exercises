@@ -35,3 +35,4 @@ print(my_string[8:len(my_string)]) # From the 8th index till the end
 print(my_string[0:7:2])  # A step of 2 meaning every second letter in that slice
 print(my_string[0:7:5])  # A step of 5
 print(my_string[::-1])  # The whole string in reverse (step is -1)
+
