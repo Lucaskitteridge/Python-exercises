@@ -22,7 +22,7 @@ number_addition = int(number1) + int(number2)
 print(string_addition)
 print(number_addition)
 
-#must convert number to string before adding together
+# must convert number to string before adding together
 print("I am a " + str(number3) + " year old cheese")
 
 # comments are added with hash
